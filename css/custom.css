@@ -25,3 +25,29 @@
 .img-center {
 	margin: 0 auto;
 }
+
+.sidebar {
+	border: 1px ridge #36415F;
+}
+
+.sidebar h5 {
+	padding: .3em 0;
+	margin: 0;
+	background-color: #36415f;
+	color:#fff;
+	font-size:1.2em;
+}
+
+.testimonial {
+	background-color: lightgrey;
+	margin: 10px;
+	color:#000;
+}
+
+#ourLocation hr {
+	width:75%;
+}
+
+#ourLocation{
+	margin-top: 10px;
+}
