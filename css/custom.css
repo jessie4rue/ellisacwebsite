@@ -51,3 +51,9 @@
 #ourLocation{
 	margin-top: 10px;
 }
+
+.myFooter {
+	height:150px;
+	background-color: #36415F;
+	margin-top: 10px
+}
