@@ -14,3 +14,14 @@
 .navbar .active a {
 	color:#3366CC ;
 }
+
+.phoneNumber {
+	background-color: #36415f;
+	width: 100%;
+	margin: 0 auto;
+	padding: 15px 0;
+}
+
+.img-center {
+	margin: 0 auto;
+}
